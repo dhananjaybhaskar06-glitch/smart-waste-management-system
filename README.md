@@ -101,7 +101,7 @@ Real IoT hardware (ESP32)
 Cloud deployment
 Mobile app integration
 Advanced AI forecasting
+
 👨‍💻 Author
 
-Student Developer
-Focused on IoT, AI, and Smart City Systems
+Dhananjay
